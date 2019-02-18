@@ -1,0 +1,4 @@
+PART 1: https://www.kdnuggets.com/2018/07/basic-image-data-analysis-numpy-opencv-p1.html
+PART 2: https://www.kdnuggets.com/2018/07/image-data-analysis-numpy-opencv-p2.html
+PART 3: https://www.kdnuggets.com/2018/09/image-data-analysis-python-p3.html
+PART 4: https://www.kdnuggets.com/2018/10/basic-image-analysis-python-p4.html
