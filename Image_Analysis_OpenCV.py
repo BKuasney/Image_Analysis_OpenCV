@@ -87,11 +87,3 @@ gray=gray(pic)
 plt.figure(figsize=(10,10))
 plt.imshow(gray,cmap=plt.get_cmap(name='gray'))
 plt.show()
-
-pic=imageio.imread('demo_2.jpeg') 
-fig,ax=plt.subplots(nrows=1,ncols=3,figsize=(15,5))
-forc,axinzip(range(3),ax):
-# create zero matrix
-split_img=np.zeros(pic.shape,dtype="uint8")# 'dtype' by default: 'numpy.float64'
-# assing each channel split_img[:,:,c]=pic[:,:,c]
-# display each channelax.imshow(split_img)
